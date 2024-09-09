@@ -1,0 +1,1 @@
+PORFAVOR ENTRAR A LA CARPETA "EjemploConsola1" Y DESPUES A "Program.cs"
